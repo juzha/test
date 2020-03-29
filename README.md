@@ -1,10 +1,10 @@
 # test
 
-## test MarkDown
+## Test MarkDown
 * learn Markdown
 * try different Markdown
 
-## test GitHub
+## Test GitHub
 * branch
 * fork
 * pull request
